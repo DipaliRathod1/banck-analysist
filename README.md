@@ -1,1 +1,1 @@
-# banck-analysist
+# bank-analysis
